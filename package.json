@@ -1,0 +1,30 @@
+{
+  "name": "remy_token",
+  "version": "1.0.0",
+  "description": "Remy token - RMT (ERC20-compatible token)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ERC20",
+    "RMT",
+    "Remy",
+    "Remy token",
+    "token",
+    "fungible"
+  ],
+  "author": "Ike-Adinnu Somtochukwu Bryan",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^4.5.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^9.2.2"
+  }
+}
