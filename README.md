@@ -1,8 +1,8 @@
-## REMY Token
+# REMY Token
 
 An ERC20 fungible Token.
 
-# Frameworks
+## Frameworks
 
 - Truffle
 - Open Zeppelin
